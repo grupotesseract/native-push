@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "528516210154",
+    "firebase_url": "https://tesseract-nativepush.firebaseio.com",
+    "project_id": "tesseract-nativepush",
+    "storage_bucket": "tesseract-nativepush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528516210154:android:b04f90cfc657dbbe",
+        "android_client_info": {
+          "package_name": "com.tesseract.nativepush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528516210154-0qfk825211vbprppp6ldlfgmnmfgqa7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6wpaqs5O8IgknSGf8jV4RTti7eXQx2dM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
